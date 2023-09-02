@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242242909770",
+    "project_id": "park-aid-fa194",
+    "storage_bucket": "park-aid-fa194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242242909770:android:510864e6d7ff17a49118b3",
+        "android_client_info": {
+          "package_name": "com.example.parkaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242242909770-m7smv8u9007mllb4imvu4rnee49uq1au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbXAq9ysryNx7dWRCD4eCerpU2rlQtDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242242909770-m7smv8u9007mllb4imvu4rnee49uq1au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
